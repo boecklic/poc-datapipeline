@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+**node_modules/
+
+# logs folder
+logs/
+
+files.zip
+
+# no MCH data files
+mch_point_forecast/**/*.csv
